@@ -26,7 +26,6 @@ C, HTML, CSS, JS, PHP, Python
 ### Análise ⚙️
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelLins6&layout=compact&count_private=true)
-c, javascript, html, css, python, php
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=RaphaelLins6&count_private=true&show_icons=true)
 

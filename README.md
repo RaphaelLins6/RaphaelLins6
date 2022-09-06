@@ -3,7 +3,7 @@
 
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, eu sou raphael 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, eu sou Raphael 👋
  </h1> <hr>
 
 Aqui vão algumas informações para me conhecer:
@@ -17,7 +17,7 @@ Aqui vão algumas informações para me conhecer:
 - Instagram: @o_raphalins
 - Twitter: @Raphaellins_
 - linkedin: https://www.linkedin.com/in/raphael-pereira-caldas-lins-367520207/
-
+- Brasília, DF
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=RaphaelLins6&repo=RaphaelLins6&countColorcountColor)
 

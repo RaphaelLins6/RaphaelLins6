@@ -3,8 +3,7 @@
 
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, eu sou Raphael 👋
- </h1> <hr>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, eu sou Raphael 👋 </h1> <hr>
 
 Aqui vão algumas informações para me conhecer:
 
@@ -12,7 +11,7 @@ Aqui vão algumas informações para me conhecer:
 - 🌱 Estou aprendendo C, HTML, CSS, JS, PHP, Python.
 - 👯 Estou querendo colaborar com empresas para ganhar experiência de trabalho tanto como estágio ou efetivo. 
 - 🤔 Quero colaborar com empresas tanto no Frontend quanto no Backend.
-- 💬 Estou muito animado para contribuir para essa  comunidade.
+- 💬 Estou muito animado para contribuir para essa comunidade.
 - 📫 Onde me achar: 
 - Instagram: @o_raphalins
 - Twitter: @Raphaellins_

@@ -10,7 +10,7 @@ Aqui vão algumas informações para me conhecer:
 - 🔭 Atualmente estou cursando a faculdade de ciências da computação.
 - 🌱 Estou aprendendo C, HTML, CSS, JS, PHP, Python.
 - 👯 Estou querendo colaborar com empresas para ganhar experiência de trabalho tanto como estágio ou efetivo. 
-- 🤔 Quero colaborar com empresas tanto no Frontend quanto no Backend.
+- 👨‍💻 Quero colaborar com empresas tanto no Frontend quanto no Backend.
 - 💬 Estou muito animado para contribuir para essa comunidade.
 - 📫 Onde me achar: 
 - Instagram: @o_raphalins

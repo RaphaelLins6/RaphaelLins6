@@ -8,7 +8,7 @@
 Aqui vão algumas informações para me conhecer:
 
 - 💻 Atualmente estou cursando a faculdade de ciências da computação.
-- 🌱 Estou aprendendo C, HTML, CSS, JS, PHP, Python.
+- 🌱 Estou aprendendo C, HTML, CSS, JS, PHP, Python, Java, Sql, alguns frmaeworks e bibliotecas.
 - 🔗 Estou querendo colaborar com empresas para ganhar experiência de trabalho tanto como estágio ou efetivo. 
 - 👨‍💻 Quero colaborar com empresas tanto no Frontend quanto no Backend.
 - 💬 Estou muito animado para contribuir para essa comunidade.

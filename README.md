@@ -12,10 +12,7 @@ Aqui vão algumas informações para me conhecer:
 - 🔗 Estou querendo colaborar com empresas para ganhar experiência de trabalho tanto como estágio ou efetivo. 
 - 👨‍💻 Quero colaborar com empresas tanto no Frontend quanto no Backend.
 - 💬 Estou muito animado para contribuir para essa comunidade.
-- 📫 Onde me achar: 
-- Instagram: @o_raphalins
-- Twitter: @Raphaellins_
-- linkedin: https://www.linkedin.com/in/raphael-pereira-caldas-lins-367520207/
+
 - Brasília, DF
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=RaphaelLins6&repo=RaphaelLins6&countColorcountColor)

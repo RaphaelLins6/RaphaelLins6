@@ -21,7 +21,7 @@ Aqui vão algumas informações para me conhecer:
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=RaphaelLins6&repo=RaphaelLins6&countColorcountColor)
 
 ### Linguagens 🛠  
-C, HTML, CSS, JS, PHP, Python
+C, HTML, CSS, JS, PHP, Python, Java, Sql.
 
 ### Análise ⚙️
 

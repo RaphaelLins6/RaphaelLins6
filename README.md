@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 - Atualmente estou cursando a faculdade de ciências da computação. <br> - Estou aprendendo C, HTML, CSS, JS, PHP, Python, Git/Github, Sql. <br> - Estou querendo colaborar com empresas para ganhar experiência de trabalho <br>tanto como estágio ou efetivo. <br>- Quero colaborar com empresas tanto no Frontend quanto no Backend. <br> - Estou muito animado para contribuir para essa comunidade.<br> Linguagens: C, HTML, CSS, JS, PHP, Python, Java, Sql.<br>Brasília, DF
 
 

@@ -1,4 +1,4 @@
-# 👤 About Me:
+# 👤 Sobre mim | About Me:
 🇧🇷:<br>📚 - Atualmente estou cursando a faculdade de ciências da computação.<br>🏫 - Eu tenho conhecimento e também estou estudando todas as tech stacks abaixo. <br>🏢 - Estou querendo colaborar com empresas para ganhar experiência de trabalho<br>tanto como estágio ou efetivo.<br>📁 - Quero colaborar com empresas tanto no Frontend quanto no Backend.<br>😊 - Estou muito animado para contribuir para essa comunidade.<br>📍 - Brasília, DF<br><br> 🇺🇸: <br>📚 I - am currently attending college for computer science.<br>🏫 - I have knowledge and I am also currently studying all the tech stacks below. <br>🏢 - I'm looking to collaborate with companies to gain work experience either as an internship or permanent.<br>📁 - I want to collaborate with companies both in Frontend and Backend.<br>😊 - I am very excited to contribute to this community.<br>📍 - Brasília, DF
 
 

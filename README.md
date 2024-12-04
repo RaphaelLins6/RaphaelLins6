@@ -40,6 +40,3 @@
 <div align="left">
   <img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGo1bnJ0MXZ4MGFvNTB4NjBrMmcyeWZmY3dhamxlNjByMjQzanZheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTMgE8owWM0q7iTKzx/giphy.gif"  />
 </div>
-
----
-[![](https://visitcount.itsvg.in/api?id=RaphaelLins6&icon=2&color=7)](https://visitcount.itsvg.in)

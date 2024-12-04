@@ -1,10 +1,6 @@
 # 👤 Sobre mim | About Me:
 🇧🇷:<br>📚 - Atualmente estou cursando a faculdade de ciências da computação.<br>🏫 - Eu tenho conhecimento e também estou estudando todas as tech stacks abaixo. <br>🏢 - Estou querendo colaborar com empresas para ganhar experiência de trabalho<br>tanto como estágio ou efetivo.<br>📁 - Quero colaborar com empresas tanto no Frontend quanto no Backend.<br>😊 - Estou muito animado para contribuir para essa comunidade.<br>📍 - Brasília, DF<br><br> 🇺🇸: <br>📚 I - am currently attending college for computer science.<br>🏫 - I have knowledge and I am also currently studying all the tech stacks below. <br>🏢 - I'm looking to collaborate with companies to gain work experience either as an internship or permanent.<br>📁 - I want to collaborate with companies both in Frontend and Backend.<br>😊 - I am very excited to contribute to this community.<br>📍 - Brasília, DF
 
-<div align="left">
-  <img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGo1bnJ0MXZ4MGFvNTB4NjBrMmcyeWZmY3dhamxlNjByMjQzanZheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTMgE8owWM0q7iTKzx/giphy.gif"  />
-</div>
-
 ## 🌐 Socials:
 <div align="left">
   <a href="https://linkedin.com/in/raphaellins6"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> </a>
@@ -40,6 +36,10 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+
+<div align="left">
+  <img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGo1bnJ0MXZ4MGFvNTB4NjBrMmcyeWZmY3dhamxlNjByMjQzanZheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTMgE8owWM0q7iTKzx/giphy.gif"  />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RaphaelLins6&icon=2&color=7)](https://visitcount.itsvg.in)

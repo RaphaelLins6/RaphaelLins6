@@ -30,7 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
+<div align="left">
 <img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGo1bnJ0MXZ4MGFvNTB4NjBrMmcyeWZmY3dhamxlNjByMjQzanZheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTMgE8owWM0q7iTKzx/giphy.gif"  />
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RaphaelLins6&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>

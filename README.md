@@ -1,5 +1,35 @@
 # 👤 Sobre mim | About Me:
-🇧🇷:<br>📚 - Atualmente estou cursando a faculdade de ciências da computação.<br>🏫 - Eu tenho conhecimento e também estou estudando todas as tech stacks abaixo. <br>🏢 - Estou querendo colaborar com empresas para ganhar experiência de trabalho<br>tanto como estágio ou efetivo.<br>📁 - Quero colaborar com empresas tanto no Frontend quanto no Backend.<br>😊 - Estou muito animado para contribuir para essa comunidade.<br>📍 - Brasília, DF<br><br> 🇺🇸: <br>📚 I - am currently attending college for computer science.<br>🏫 - I have knowledge and I am also currently studying all the tech stacks below. <br>🏢 - I'm looking to collaborate with companies to gain work experience either as an internship or permanent.<br>📁 - I want to collaborate with companies both in Frontend and Backend.<br>😊 - I am very excited to contribute to this community.<br>📍 - Brasília, DF
+🇧🇷:<br>
+ Profissional de TI com experiência em desenvolvimento C# e suporte técnico. Sólidos conhecimentos em metodologias ágeis (Scrum, Kanban), desenvolvimento web (HTML, CSS, JavaScript) e desktop (.NET MAUI). Experiência prática em configuração e manutenção de infraestrutura, incluindo redes, servidores e segurança da informação. Habilidades em desenvolvimento de aplicações web (ASP.NET), gerenciamento de conteúdo (WordPress) e integração de sistemas (CRMs e ERPs). Capacidade de resolução de problemas, aprendizado rápido e trabalho em equipe. Quero colaborar com empresas tanto no Frontend quanto no Backend.<br>
+
+Habilidades:<br>
+
+Desenvolvimento C# (.NET, .NET MAUI)<br>
+Desenvolvimento Web (HTML, CSS, JavaScript)<br>
+Metodologias Ágeis (Scrum, Kanban)<br>
+Gerenciamento de Conteúdo (WordPress)<br>
+Ánalise de Sistemas (CRMs, ERPs)<br>
+Infraestrutura de TI (Redes, Servidores)<br>
+Suporte Técnico (Desktops, Notebooks, Câmeras de Segurança)<br>
+Controle de versão (Git, GitHub)<br>
+Design (Figma, Draw.io)<br>
+<br>
+us:<br>
+ IT professional with experience in C# development and technical support. Solid knowledge of agile methodologies (Scrum, Kanban), web development (HTML, CSS, JavaScript) and desktop (.NET MAUI). Hands-on experience in infrastructure configuration and maintenance, including networks, servers and information security. Skills in web application development (ASP.NET), content management (WordPress) and systems integration (CRMs and ERPs). Problem-solving ability, fast learning and teamwork. I want to collaborate with companies on both the Frontend and Backend.<br>
+
+Skills:<br>
+
+C# Development (.NET, .NET MAUI, ASP.NET)<br>
+Web Development (HTML, CSS, JavaScript)<br>
+Agile Methodologies (Scrum, Kanban)<br>
+Content Management (WordPress)<br>
+Systems Analysis (CRMs, ERPs)<br>
+IT Infrastructure (Networks, Servers)<br>
+Technical Support (Desktops, Notebooks, Security Cameras)<br>
+Version Control (Git, GitHub)<br>
+Design (Figma, Draw.io)<br>
+<br>
+📍 - Brasília, DF
 
 # 💻 Tech Stack:
 <div align="left">

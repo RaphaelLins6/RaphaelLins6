@@ -1,7 +1,7 @@
 # 👤 Sobre mim | About Me: 🇧🇷
 
 💻 <br>
- Profissional de TI com experiência em desenvolvimento C# e suporte técnico. Sólidos conhecimentos em metodologias ágeis (Scrum, Kanban), desenvolvimento web (HTML, CSS, JavaScript) e desktop (.NET MAUI). Experiência prática em configuração e manutenção de infraestrutura, incluindo 🌐 redes, ⚙️ servidores e 🔒 segurança da informação. Habilidades em desenvolvimento de aplicações web, 📝 gerenciamento de conteúdo (WordPress) e 🔗 integração de sistemas (CRMs e ERPs). Capacidade de 💡 resolução de problemas, 🚀 aprendizado rápido e 🤝 trabalho em equipe. Quero colaborar com empresas tanto no Frontend quanto no Backend.<br>
+ Profissional de TI com experiência em desenvolvimento C# e suporte técnico. Sólidos conhecimentos em metodologias ágeis (Scrum, Kanban), desenvolvimento web (HTML, CSS, JavaScript) e desktop (.NET MAUI). Experiência prática em configuração e manutenção de infraestrutura, incluindo 🌐 redes, ⚙️ servidores e 🔒 segurança da informação. Habilidades em desenvolvimento de aplicações web, 📝 gerenciamento de conteúdo (WordPress) e 📊 análise de sistemas (CRMs e ERPs). Capacidade de 💡 resolução de problemas, 🚀 aprendizado rápido e 🤝 trabalho em equipe. Quero colaborar com empresas tanto no Frontend quanto no Backend.<br>
 
 👨🏼‍💻 Habilidades:<br>
 
@@ -51,4 +51,3 @@
 <div align="left">
   <img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGo1bnJ0MXZ4MGFvNTB4NjBrMmcyeWZmY3dhamxlNjByMjQzanZheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTMgE8owWM0q7iTKzx/giphy.gif"/>
 </div>
----

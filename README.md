@@ -35,7 +35,7 @@ Profissional de TI com experiência em desenvolvimento C# e suporte técnico. S�
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" alt="sql logo"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="sql logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
   <img width="12" />

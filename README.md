@@ -39,7 +39,7 @@ Profissional de TI com experiência em desenvolvimento C# e suporte técnico. S�
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
   <img width="12" />
-  <img src="https://e7.pngegg.com/pngimages/551/770/png-clipart-github-pages-logo-repository-fork-github-mammal-cat-like-mammal-thumbnail.png" height="40" alt="github logo"/> 
+  <img src="https://img.icons8.com/ios11/512/FFFFFF/github.png" height="40" alt="github logo"/> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"/>
 </div>

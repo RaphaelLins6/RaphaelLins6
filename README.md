@@ -1,19 +1,19 @@
 # 👤 Sobre mim 
 
 💻 <br>
-Profissional de TI com experiência em desenvolvimento C# e suporte técnico. Sólidos conhecimentos em metodologias ágeis (Scrum, Kanban), desenvolvimento web (HTML, CSS, JavaScript), desktop e mobile (.NET MAUI). Experiência prática em configuração e manutenção de infraestrutura, incluindo 🌐 redes, ⚙️ servidores e 🛠️ Suporte Técnico (Desktops, Notebooks, Câmeras de Segurança). Habilidades em desenvolvimento de aplicações web, 📝 gerenciamento de conteúdo (WordPress) e 📊 análise de sistemas (CRMs e ERPs). Capacidade de 💡 resolução de problemas, 🚀 aprendizado rápido e 🤝 trabalho em equipe. Quero colaborar com empresas tanto no Frontend quanto no Backend.<br>
+Profissional de TI com experiência em desenvolvimento C# e suporte técnico. Sólidos conhecimentos em metodologias ágeis (Scrum, Kanban), desenvolvimento web (HTML, CSS, JavaScript), desktop e mobile (.NET MAUI). Experiência prática em configuração e manutenção de infraestrutura, incluindo 🌐 redes, ⚙️ servidores e 🛠️ Suporte Técnico (Desktops, Notebooks, Câmeras de Segurança). Habilidades em desenvolvimento de aplicações web, 📝 criação e gerenciamento de conteúdo (WordPress) e 📊 análise de sistemas (CRMs e ERPs). Capacidade de 💡 resolução de problemas, 🚀 aprendizado rápido e 🤝 trabalho em equipe. Quero colaborar com empresas tanto no Frontend quanto no Backend.<br>
 
 👨🏼‍💻 Habilidades:<br>
 
 🛠️ Desenvolvimento C# (.NET, .NET MAUI)<br>
 🌐 Desenvolvimento Web (HTML, CSS, JavaScript)<br>
+💾 Controle de versão (Git, GitHub)<br>
+🎨 Design (Figma, Draw.io)<br>
 🚀 Metodologias Ágeis (Scrum, Kanban)<br>
-📝 Gerenciamento de Conteúdo (WordPress)<br>
+📝 Criação e gerenciamento de Conteúdo (WordPress)<br>
 📊 Ánalise de Sistemas (CRMs, ERPs)<br>
 ⚙️ Infraestrutura de TI (Redes, Servidores)<br>
 🛠️ Suporte Técnico (Desktops, Notebooks, Câmeras de Segurança)<br>
-💾 Controle de versão (Git, GitHub)<br>
-🎨 Design (Figma, Draw.io)<br>
 🗣️ Inlgês Avançado<br>
 <br>
 
@@ -21,25 +21,27 @@ Profissional de TI com experiência em desenvolvimento C# e suporte técnico. S�
 
 # 💻 Tech Stack:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="40" alt="sql logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" color="white"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"/>
 </div>
 
 # 📊 GitHub Stats:

@@ -45,10 +45,10 @@ Profissional de TI com experiência em desenvolvimento C# e suporte técnico. S�
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=RaphaelLins6&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelLins6&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=RaphaelLins6&theme=gruvbox&hide_border=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelLins6&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-<div align="left">
+<div align="center">
   <img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGo1bnJ0MXZ4MGFvNTB4NjBrMmcyeWZmY3dhamxlNjByMjQzanZheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTMgE8owWM0q7iTKzx/giphy.gif"/>
 </div>

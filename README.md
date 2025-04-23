@@ -29,6 +29,7 @@ Profissional de TI com experiência em desenvolvimento C# e suporte técnico. S�
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
   <img width="12" />
+  <img src="https://images.icon-icons.com/2415/PNG/512/django_original_logo_icon_146559.png" alt="Django" width="60" height="50"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>

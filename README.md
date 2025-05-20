@@ -1,24 +1,3 @@
-# 👤 Sobre mim 
-
-💻 <br>
-Profissional de TI com experiência em desenvolvimento C# e suporte técnico. Sólidos conhecimentos em metodologias ágeis (Scrum, Kanban), desenvolvimento web (HTML, CSS, JavaScript), desktop e mobile (.NET MAUI). Experiência prática em configuração e manutenção de infraestrutura, incluindo 🌐 redes, ⚙️ servidores e 🛠️ Suporte Técnico (Desktops, Notebooks, Câmeras de Segurança). Habilidades em desenvolvimento de aplicações web, 📝 criação e gerenciamento de conteúdo (WordPress) e 📊 análise de sistemas (CRMs e ERPs). Capacidade de 💡 resolução de problemas, 🚀 aprendizado rápido e 🤝 trabalho em equipe. Quero colaborar com empresas tanto no Frontend quanto no Backend.<br>
-
-👨🏼‍💻 Habilidades:<br>
-
-🛠️ Desenvolvimento C# (.NET, .NET MAUI)<br>
-🌐 Desenvolvimento Web (HTML, CSS, JavaScript)<br>
-💾 Controle de versão (Git, GitHub)<br>
-🎨 Design (Figma, Draw.io)<br>
-🚀 Metodologias Ágeis (Scrum, Kanban)<br>
-📝 Criação e gerenciamento de Conteúdo (WordPress)<br>
-📊 Ánalise de Sistemas (CRMs, ERPs)<br>
-⚙️ Infraestrutura de TI (Redes, Servidores)<br>
-🛠️ Suporte Técnico (Desktops, Notebooks, Câmeras de Segurança)<br>
-🗣️ Inlgês Avançado<br>
-<br>
-
-📍 - Brasília, DF
-
 # 💻 Tech Stack:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>

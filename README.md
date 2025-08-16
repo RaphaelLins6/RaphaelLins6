@@ -29,7 +29,7 @@
 
 # 📊 GitHub Stats:
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RaphaelLins6&theme=highcontrast&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)<br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelLins6&layout=compact)
 
 ---
 <div align="center">

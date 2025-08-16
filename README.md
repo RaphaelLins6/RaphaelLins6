@@ -28,7 +28,7 @@
 </div>
 
 # 📊 GitHub Stats:
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=RaphaelLins6&theme=gruvbox&hide_border=true)<br/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RaphaelLins6&theme=dark&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelLins6&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---

@@ -1,8 +1,8 @@
 # 👤 Sobre Mim:
-Desenvolvedor C# | .NET <br><br>Buscando ativamente minha primeira oportunidade no mercado de desenvolvimento. <br>Sólida base em C# e proficiência no framework .NET, focado em construir soluções <br>eficientes e escaláveis. Pronto para aplicar conhecimentos técnicos e contribuir com <br>código de alta qualidade em um ambiente profissional.
+**Desenvolvedor C# | .NET** <br><br>Buscando ativamente minha primeira oportunidade no mercado de desenvolvimento. <br>Sólida base em C# e proficiência no framework .NET, focado em construir soluções <br>eficientes e escaláveis. Pronto para aplicar conhecimentos técnicos e contribuir com <br>código de alta qualidade em um ambiente profissional.
 
 
-## 🌐 Redes Sociais:
+# 🌐 Redes Sociais:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/raphael.fla.lins) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raphaellins_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raphaellins6) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Raphaellins_) 
 
 # 💻 Tech Stack:
@@ -13,7 +13,7 @@ Desenvolvedor C# | .NET <br><br>Buscando ativamente minha primeira oportunidade 
 ![](https://nirzak-streak-stats.vercel.app/?user=RaphaelLins6&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelLins6&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Frases de Dev
+## ✍️ Frases de Dev
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ---

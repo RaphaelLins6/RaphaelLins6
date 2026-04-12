@@ -1,5 +1,5 @@
 # 👤 Sobre Mim:
-**Desenvolvedor .NET | C# | Bacharel em Ciência da Computação** <br><br>Migrando de suporte e infraestrutura para o desenvolvimento de soluções escaláveis. Criador de um ecossistema completo (Mobile & Desktop) para gestão esportiva em C#. <br>Sólida base em C# e proficiência no framework .NET, focado em construir soluções <br>eficientes e escaláveis.
+**Desenvolvedor .NET | C# | Bacharel em Ciência da Computação** <br><br>Migrando de suporte e infraestrutura para o desenvolvimento de soluções escaláveis. Projetei para o meu TCC um ecossistema completo (Mobile & Desktop) para gestão esportiva em C#. <br>Sólida base em C# e proficiência no framework .NET, focado em construir soluções <br>eficientes e escaláveis.
 
 
 # 🌐 Redes Sociais:
